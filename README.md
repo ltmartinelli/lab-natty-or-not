@@ -1,4 +1,4 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+DESAFIO DIO - Machine Learning
 
 ## 📒 Descrição
 Este e-book de faz uma breve introdução a Machine Learning e seus conceitos principais com exercícios de fixação.
